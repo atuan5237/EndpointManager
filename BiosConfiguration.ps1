@@ -14,7 +14,7 @@
 
 #>
 
-[string]$GithubConf = "https://github.com/atuan5237/EndpointManager/blob/main/BiosConfiguration.csv"
+[string]$GithubConf = "https://raw.githubusercontent.com/atuan5237/EndpointManager/main/BiosConfiguration.csv"
 [string]$Logfile = "C:\ProgramData\Microsoft\IntuneManagementExtension\Logs\BIOS_Settings.log" 
 [string]$MyPassword = 
 [string]$Language = "us"
